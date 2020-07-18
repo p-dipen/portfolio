@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> Learning <a href="https://www.gatsbyjs.org"> <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="10" /> </a> Gatsby to make portfolio
+> Learning <a href="https://www.gatsbyjs.org"> <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="20" /> </a> Gatsby to make portfolio
 
 ## Install
 
