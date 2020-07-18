@@ -30,13 +30,9 @@ npm run develop
 
 👤 **Dipen Parihar**
 
-* Website: dipenparihar.com
-* Github: [@p-dipen](https://github.com/p-dipen)
-* LinkedIn: [@dipen-parihar](https://linkedin.com/in/dipen-parihar)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/gatsbyjs/gatsby/issues). You can also take a look at the [contributing guide](https://github.com/gatsbyjs/gatsby-starter-hello-world/blob/master/CONTRIBUTING.md).
+- Website: dipenparihar.com
+- Github: [@p-dipen](https://github.com/p-dipen)
+- LinkedIn: [@dipen-parihar](https://linkedin.com/in/dipen-parihar)
 
 ## Show your support
 
@@ -46,6 +42,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2020 [Dipen Parihar](https://github.com/p-dipen).<br />
 This project is [MIT](https://github.com/gatsbyjs/gatsby-starter-hello-world/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
