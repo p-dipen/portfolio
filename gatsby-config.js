@@ -6,5 +6,9 @@
 
 module.exports = {
   /* Your site config here */
-  plugins: [],
+  siteMetadata: {
+    title: "Full-Stack / Data Engineer Dev",
+    author: "Dipen Parihar",
+  },
+  plugins: ["gatsby-plugin-sass"],
 }
