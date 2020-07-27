@@ -11,6 +11,10 @@ module.exports = {
     author: "Dipen Parihar",
   },
   plugins: [
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
+    `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sitemap`,
     "gatsby-plugin-sass",
     {
       resolve: "gatsby-source-filesystem",
